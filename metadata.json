@@ -1,0 +1,6 @@
+{
+  "name": "Pro Product Studio AI",
+  "description": "AI-powered professional product commercial and advertisement video editing studio with multi-track timeline, beat synchronization, color grading, FFmpeg rendering, and Adobe Premiere Pro XML export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
